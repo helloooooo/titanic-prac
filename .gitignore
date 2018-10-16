@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 dataset/
 .vscode/
+/.idea/
 *.csv
